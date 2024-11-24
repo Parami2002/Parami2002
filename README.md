@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parami2002
-- 👀 I’m interested in Web developing
+- 👀 I’m interested in Web developing and programming
 - 🌱 I’m currently learning in Rajarata University of Sri Lanka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
